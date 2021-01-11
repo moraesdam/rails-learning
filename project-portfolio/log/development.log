@@ -1,0 +1,36 @@
+
+
+Started GET "/" for 69.172.172.49 at 2021-01-11 22:53:59 +0000
+Processing by PagesController#welcome as HTML
+  Rendered pages/welcome.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 342ms (Views: 335.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 69.172.172.49 at 2021-01-11 22:54:00 +0000
+
+
+Started GET "/assets/pages.css.css?body=1" for 69.172.172.49 at 2021-01-11 22:54:00 +0000
+
+
+Started GET "/assets/application.css?body=1" for 69.172.172.49 at 2021-01-11 22:54:00 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 69.172.172.49 at 2021-01-11 22:54:00 +0000
+
+
+Started GET "/assets/pages.js?body=1" for 69.172.172.49 at 2021-01-11 22:54:00 +0000
+
+
+Started GET "/assets/turbolinks.js?body=1" for 69.172.172.49 at 2021-01-11 22:54:00 +0000
+
+
+Started GET "/assets/application.js?body=1" for 69.172.172.49 at 2021-01-11 22:54:00 +0000
+
+
+Started GET "/assets/github.svg" for 69.172.172.49 at 2021-01-11 22:54:02 +0000
+
+
+Started GET "/assets/twitter.svg" for 69.172.172.49 at 2021-01-11 22:54:02 +0000
+
+
+Started GET "/assets/linkedin.svg" for 69.172.172.49 at 2021-01-11 22:54:02 +0000
