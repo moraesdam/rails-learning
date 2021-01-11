@@ -1,0 +1,47 @@
+body, html {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  height: 100%;
+  width: 100%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.footer {
+  background-color: #fff;
+  height: 200px;
+  text-align: right;
+  width: 100%;
+}
+
+.social_media li {
+    display: inline-block;
+    height: 24px;
+    margin: 0 0 0 10px;
+    text-align: left;
+    text-indent: -9999px;
+    width: 24px;
+}
+.social_media li a {
+  display: block;
+  height: 24px;
+  width: 24px;
+}
+
+.github {
+  background-image: url(/assets/github.svg);
+  background-position: center center;
+}
+
+.linkedin {
+  background-image: url(/assets/linkedin.svg);
+  background-position: center center;
+}
+
+.twitter {
+  background-image: url(/assets/twitter.svg);
+  background-position: center center;
+}
