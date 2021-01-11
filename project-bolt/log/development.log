@@ -1,0 +1,30 @@
+
+
+Started GET "/" for 69.172.172.49 at 2021-01-11 23:50:21 +0000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 408ms (Views: 402.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.css.css?body=1" for 69.172.172.49 at 2021-01-11 23:50:21 +0000
+
+
+Started GET "/assets/pages.css?body=1" for 69.172.172.49 at 2021-01-11 23:50:21 +0000
+
+
+Started GET "/assets/turbolinks.js?body=1" for 69.172.172.49 at 2021-01-11 23:50:21 +0000
+
+
+Started GET "/assets/application.css?body=1" for 69.172.172.49 at 2021-01-11 23:50:21 +0000
+
+
+Started GET "/assets/pages.js?body=1" for 69.172.172.49 at 2021-01-11 23:50:21 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 69.172.172.49 at 2021-01-11 23:50:21 +0000
+
+
+Started GET "/assets/jquery.js?body=1" for 69.172.172.49 at 2021-01-11 23:50:21 +0000
+
+
+Started GET "/assets/application.js?body=1" for 69.172.172.49 at 2021-01-11 23:50:21 +0000
